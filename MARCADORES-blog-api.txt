@@ -1,0 +1,8 @@
+2026-10-28T09:56:17	Write	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-api/CLAUDE.md
+2026-10-28T09:56:18	Write	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-ai/CLAUDE.md
+2026-10-28T09:56:18	Write	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-api/.claude/skills/marcador-blog-api/SKILL.md
+2026-10-28T09:56:18	Write	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-ai/.claude/skills/marcador-blog-ai/SKILL.md
+2026-10-28T09:56:23	Edit	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-api/CLAUDE.md
+2026-10-28T09:56:24	Edit	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-ai/CLAUDE.md
+2026-10-28T10:06:28	Edit	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-ai/app/esquemas.py
+2026-10-28T10:26:44	Write	/Users/elena.pascual.ext/Development/PERSONAL/LIDR/blog/blog-api/docs/frontera.md
